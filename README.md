@@ -4,4 +4,4 @@ An early attempt at the raymarching algorithm in Javascript [better version](htt
 
 ## Wesite
 
-[website](https://github.com/GameDev46/ray_macher)
+[website](https://gamedev46.github.io/ray_marcher/)
