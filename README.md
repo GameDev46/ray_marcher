@@ -50,6 +50,14 @@
 
 An early attempt at the raymarching algorithm in vanilla Javascript, I have created a faster and better version using webgl and glsl [in this github repository](https://github.com/GameDev46/fractal_raytracer)
 
+# Screenshots
+
+<p>
+    <img src="https://github.com/GameDev46/ray_marcher/assets/76485006/8375f506-9a71-4af2-8f2c-b423c378135e" width="500">
+    <img src="https://github.com/GameDev46/ray_marcher/assets/76485006/5ef7bc9b-24b5-42e6-8476-82508a8d3538" width="500">
+</p>
+
+
 ## Wesite
 
 You can try out the program on its [website](https://gamedev46.github.io/ray_marcher/) or download the files and run it locally on your computer though this is a development build of the project and so is not the most user friendly!
