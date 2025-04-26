@@ -13,13 +13,8 @@
 /* 
 	AUTHOR: GameDev46
 
-	replit: https://replit.com/@GameDev46
-	youtube: https://www.youtube.com/@gamedev46
-	twitter: https://twitter.com/GameDev46
-
-	Give clear and visible credit if using! (much appreciated 😄)
-
- 	PLEASE DO NOT REMOVE THESE CREDITS!
+	Youtube: https://www.youtube.com/@gamedev46
+	Github: https://github.com/GameDev46
 */
 
 // Workers to speed up rendering all the pixels
